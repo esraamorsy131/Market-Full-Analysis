@@ -10,14 +10,14 @@ By leveraging advanced analytics and visualization techniques.
 ### Power BI
 
 
-#### Data Cleaning 🧽
+## Data Cleaning 🧽
 1. **Remove Duplicates:** Eliminated duplicate values from the dataset.
 2. **Format Modification:** Adjusted data formats for numbers and dates.
 3. **Fill Missing Data:** Populated empty cells in the "adjustment_reason" column based on the available data.
 4. **Fill Missing Data:** Populated empty cells in the "simplified_return_reason" column based on the available data.
 
 
-#### Data Analysis 📊
+## Data Analysis 📊
 
 1. **OVERALL ANALYSIS**  
 2. **CUSTOMER BEHAVIOUR** 
@@ -26,7 +26,7 @@ By leveraging advanced analytics and visualization techniques.
 5. **STORE CHARACTRISTICS**
 6. **SALES AND PROFIT TRENDS**
    
-#### Dax Equations samples  📊
+## Dax Equations samples  📊
 
 ![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Market-Full-Analysis/blob/DAX-MEAUSERS/%25%20BAKED%20QUANTITIES.PNG)
 ![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Market-Full-Analysis/blob/DAX-MEAUSERS/%25%20MOM%20SALES%20CHANGE.PNG)
@@ -45,7 +45,7 @@ By leveraging advanced analytics and visualization techniques.
 ![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Market-Full-Analysis/blob/DAX-MEAUSERS/UNSOLD%20PASTRIES.PNG)
 ![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Market-Full-Analysis/blob/DAX-MEAUSERS/UNSOLD%20PASTRIES%20TABLE.PNG)
 
-#### Creating Dynamic Dashboard 
+## Creating Dynamic Dashboard 
    - Developed a dynamic dashboard for interactive data exploration and visualization.
 
 
