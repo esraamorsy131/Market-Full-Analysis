@@ -29,21 +29,37 @@ By leveraging advanced analytics and visualization techniques.
 ## Dax Equations samples  📊
 
 ![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Market-Full-Analysis/blob/DAX-MEAUSERS/%25%20BAKED%20QUANTITIES.PNG)
+
 ![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Market-Full-Analysis/blob/DAX-MEAUSERS/%25%20MOM%20SALES%20CHANGE.PNG)
+
 ![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Market-Full-Analysis/blob/DAX-MEAUSERS/AVERAGE%20PROFIT.PNG)
+
 ![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Market-Full-Analysis/blob/DAX-MEAUSERS/COST.PNG)
+
 ![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Market-Full-Analysis/blob/DAX-MEAUSERS/CUSTOMER%20SALES%20REFERENCE.PNG)
+
 ![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Market-Full-Analysis/blob/DAX-MEAUSERS/CUSTOMER%20SALES.PNG)
+
 ![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Market-Full-Analysis/blob/DAX-MEAUSERS/CUSTOMERS%20WHO%20PURCHASES.PNG)
+
 ![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Market-Full-Analysis/blob/DAX-MEAUSERS/EMPLOYEE%20FULL%20NAME.PNG)
+
 ![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Market-Full-Analysis/blob/DAX-MEAUSERS/LAST%20MONTH%20SALE.PNG)
+
 ![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Market-Full-Analysis/blob/DAX-MEAUSERS/MOVING%20AVERAGE%20PROFIT.PNG)
+
 ![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Market-Full-Analysis/blob/DAX-MEAUSERS/SALES%20RANK.PNG)
+
 ![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Market-Full-Analysis/blob/DAX-MEAUSERS/RETAIL%20PRICE.PNG)
+
 ![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Market-Full-Analysis/blob/DAX-MEAUSERS/TOP%205%20PRODUCTS.PNG)
+
 ![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Market-Full-Analysis/blob/DAX-MEAUSERS/TOTAL%20CUSTOMERS.PNG)
+
 ![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Market-Full-Analysis/blob/DAX-MEAUSERS/UNSOLD%20PASTRIES.PNG)
+
 ![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Market-Full-Analysis/blob/DAX-MEAUSERS/UNSOLD%20PASTRIES%20TABLE.PNG)
+
 
 ## Creating Dynamic Dashboard 
    - Developed a dynamic dashboard for interactive data exploration and visualization.
