@@ -19,14 +19,10 @@ By leveraging advanced analytics and visualization techniques.
 
 #### Data Analysis 📊
 
-**OVERALL INSIGHTS**.
-**Customer Behaviour**.
-**Employee Behaviour**.
-**Product Performance**.
-**Store Charactristics**.
-**Sales and Profit Trends**.
-
-
+1. **OVERALL ANALYSIS:** 
+2. **Format Modification:** Adjusted data formats for numbers and dates.
+3. **Fill Missing Data:** Populated empty cells in the "adjustment_reason" column based on the available data.
+4. **Fill Missing Data:** Populated empty cells in the "simplified_return_reason" column based on the available data.
 
 
 #### Creating Dynamic Dashboard 
