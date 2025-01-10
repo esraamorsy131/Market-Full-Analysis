@@ -28,7 +28,7 @@ By leveraging advanced analytics and visualization techniques.
    
 #### Dax Equations samples  📊
 
-![Sales Data Analysis Dashboard]()
+![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Market-Full-Analysis/blob/DAX-MEAUSERS/%25%20BAKED%20QUANTITIES.PNG)
 ![Sales Data Analysis Dashboard]()
 ![Sales Data Analysis Dashboard]()
 ![Sales Data Analysis Dashboard]()
