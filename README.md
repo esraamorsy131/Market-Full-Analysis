@@ -19,14 +19,21 @@ By leveraging advanced analytics and visualization techniques.
 
 #### Data Analysis 📊
 
-1. **OVERALL ANALYSIS** 
+1. **OVERALL ANALYSIS**  
 2. **CUSTOMER BEHAVIOUR** 
 3. **EMPLOYEE BEHAVIOUR** 
 4. **PRODUCT PERFORMANCE**
 5. **STORE CHARACTRISTICS**
 6. **SALES AND PROFIT TRENDS**
    
+#### Dax Equations samples  📊
 
+![Sales Data Analysis Dashboard]()
+![Sales Data Analysis Dashboard]()
+![Sales Data Analysis Dashboard]()
+![Sales Data Analysis Dashboard]()
+![Sales Data Analysis Dashboard]()
+![Sales Data Analysis Dashboard]()
 
 #### Creating Dynamic Dashboard 
    - Developed a dynamic dashboard for interactive data exploration and visualization.
