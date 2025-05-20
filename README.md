@@ -63,6 +63,8 @@ By leveraging advanced analytics and visualization techniques.
 
 ## Creating Dynamic Dashboard 
    - Developed a dynamic dashboard for interactive data exploration and visualization.
+   - !InteractiveDasboard](https://app.powerbi.com/groups/02b66986-42c9-4a1b-9090-459956b4a268/reports/a908e1d3-d533-4715-9926-4c84498daaef/6a6fd787201d0aef0a95?experience=power-bi)
+
 
 
 
