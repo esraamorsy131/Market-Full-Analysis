@@ -21,7 +21,7 @@ This project focuses on uncovering business insights from comprehensive sales an
 4. **Fill Missing Data:** Populated empty cells in the "simplified_return_reason" column based on the available data.
 
 
-## Data Analysis 📊
+## Project Outcome 🎯
 
 1. **OVERALL ANALYSIS**  
 2. **CUSTOMER BEHAVIOUR** 
@@ -65,18 +65,7 @@ This project focuses on uncovering business insights from comprehensive sales an
 ![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Market-Full-Analysis/blob/DAX-MEAUSERS/UNSOLD%20PASTRIES%20TABLE.PNG)
 
 
-## Creating Dynamic Dashboard 
-   - Developed a dynamic dashboard for interactive data exploration and visualization.
-   -  InteractiveDasboard Link :(https://app.powerbi.com/groups/02b66986-42c9-4a1b-9090-459956b4a268/reports/a908e1d3-d533-4715-9926-4c84498daaef/6a6fd787201d0aef0a95?experience=power-bi)
 
-
-
-
-
-
-## Project Outcome 🎯
-
-The project delivers actionable recommendations for optimizing sales strategies, improving performance, and identifying trends.
 
 
 ## Project Dashboard
