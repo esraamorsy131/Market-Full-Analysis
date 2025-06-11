@@ -1,13 +1,14 @@
-# MARKET FULL ANALYSIS
+# 🛒 Comprehensive Market Sales Analysis
 
 ## Project Overview
 
-The Sales Data Analysis project focuses on extracting meaningful insights and optimizing business strategies through a comprehensive analysis of market 
-By leveraging advanced analytics and visualization techniques.
+This project focuses on uncovering business insights from comprehensive sales and market data using interactive dashboards and performance metrics. The goal is to support decision-making and optimize business strategies.
 
-## Tools Used 🧑‍💻💻
+## Tools Used 🧰
+- **Power BI**: Data modeling and interactive visualizations  
+- **Excel**: Data extraction and preliminary cleaning  
+- **DAX**: Used for complex calculated fields and KPIs
 
-### Power BI
 
 
 ## Data Cleaning 🧽
@@ -26,7 +27,7 @@ By leveraging advanced analytics and visualization techniques.
 5. **STORE CHARACTRISTICS**
 6. **SALES AND PROFIT TRENDS**
    
-## Dax Equations samples  📊
+### Sample DAX Measures
 
 ![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Market-Full-Analysis/blob/DAX-MEAUSERS/%25%20BAKED%20QUANTITIES.PNG)
 
