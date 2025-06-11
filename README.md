@@ -1,5 +1,8 @@
 # 🛒 Comprehensive Market Sales Analysis
 
+## 🔗 View the [Interactive Dashboard on Power BI]()
+
+
 ## Project Overview
 
 This project focuses on uncovering business insights from comprehensive sales and market data using interactive dashboards and performance metrics. The goal is to support decision-making and optimize business strategies.
