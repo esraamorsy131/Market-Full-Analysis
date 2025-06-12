@@ -1,6 +1,6 @@
 # 🛒 Comprehensive Market Sales Analysis
 
-## 🔗 View the [Interactive Dashboard on Power BI](https://app.powerbi.com/groups/02b66986-42c9-4a1b-9090-459956b4a268/reports/a908e1d3-d533-4715-9926-4c84498daaef/fad817db4e13b6498d67?experience=power-bi)
+## 🔗 View the [Interactive Dashboard on Power BI](https://app.powerbi.com/view?r=eyJrIjoiZWM3YjM2ZDEtNmY4NC00Yjg3LTg4YjEtZmRhYzI3ZWQzZDc4IiwidCI6ImVhZjYyNGM4LWEwYzQtNDE5NS04N2QyLTQ0M2U1ZDc1MTZjZCIsImMiOjh9)
 
 
 ## Project Overview
